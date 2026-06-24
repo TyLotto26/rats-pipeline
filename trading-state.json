@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-06-24T20:28:29.027902+00:00",
+  "bankroll": 48.85,
+  "capital_deployed": 0.76,
+  "mode": "paper",
+  "open_positions_count": 10,
+  "open_positions": {
+    "103771003197539630907946849724351844488893868646080340774701375786965787438109": {
+      "status": "open",
+      "entry_price": 0.4,
+      "size_usd": 0.88,
+      "side": "YES",
+      "entry_timestamp": "2026-06-23T22:02:25.489899+00:00",
+      "question": "Will Tesla (TSLA) close above $390 end of June?",
+      "slug": "tsla-above-390-on-june-30-2026",
+      "cycle": 429,
+      "strategy_id": "macro-fed-v1"
+    },
+    "89759522022447819521166789356982502927137060709392715707397420399278813291584": {
+      "status": "open",
+      "entry_price": 0.043,
+      "size_usd": 0.73,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T00:01:37.223619+00:00",
+      "question": "Will the highest temperature in Ankara be 27\u00b0C on June 25?",
+      "slug": "highest-temperature-in-ankara-on-june-25-2026-27c",
+      "cycle": 433,
+      "strategy_id": "macro-fed-v1"
+    },
+    "35532428848613158114275839988824516809632020376398852691563364147296859144491": {
+      "status": "open",
+      "entry_price": 0.11,
+      "size_usd": 0.85,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T07:00:56.030999+00:00",
+      "question": "Will the highest temperature in Karachi be 33\u00b0C on June 25?",
+      "slug": "highest-temperature-in-karachi-on-june-25-2026-33c",
+      "cycle": 448,
+      "strategy_id": "macro-fed-v1"
+    },
+    "16845614278355767354199934421428210299366318751709791654130808479579329739300": {
+      "status": "open",
+      "entry_price": 0.034,
+      "size_usd": 0.83,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T07:47:23.246406+00:00",
+      "question": "Will the highest temperature in Tokyo be 20\u00b0C on June 25?",
+      "slug": "highest-temperature-in-tokyo-on-june-25-2026-20c",
+      "cycle": 450,
+      "strategy_id": "macro-fed-v1"
+    },
+    "13900544787119851809897307091081699840238501665538814598655456603144045355564": {
+      "status": "open",
+      "entry_price": 0.2255,
+      "size_usd": 0.81,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T09:00:51.692911+00:00",
+      "question": "Will Crude Oil (CL) settle at $63-$70 in June?",
+      "slug": "cl-settle-63-70-jun-2026",
+      "cycle": 462,
+      "strategy_id": "macro-fed-v1"
+    },
+    "14506304635025459585470985320084332367485339088217582192010068458152247051031": {
+      "status": "open",
+      "entry_price": 0.21,
+      "size_usd": 0.9,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T11:00:56.611620+00:00",
+      "question": "Will Alphabet Inc. (GOOGL) hit (LOW) $330 in June?",
+      "slug": "will-googl-dip-to-330-in-june-2026",
+      "cycle": 470,
+      "strategy_id": "macro-fed-v1"
+    },
+    "37563978487003293050666493773981183293083708032032887613192549551924192490055": {
+      "status": "open",
+      "entry_price": 0.0415,
+      "size_usd": 0.88,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T11:30:57.519347+00:00",
+      "question": "Will S&P 500 (SPY) hit (LOW) $690 in June?",
+      "slug": "will-spy-dip-to-690-in-june-2026",
+      "cycle": 471,
+      "strategy_id": "macro-fed-v1"
+    },
+    "47820239574513396445857690997577322889960018066592635283122534779102751702410": {
+      "status": "open",
+      "entry_price": 0.032,
+      "size_usd": 0.86,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T12:01:49.281208+00:00",
+      "question": "Will S&P 500 (SPX) hit $7,700 (HIGH) in June?",
+      "slug": "spx-hit-7700-high-jun-2026-675",
+      "cycle": 472,
+      "strategy_id": "macro-fed-v1"
+    },
+    "9060500228465680189720066042863286209190369768973445428496641834829290211180": {
+      "status": "open",
+      "entry_price": 0.065,
+      "size_usd": 0.84,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T15:01:06.925663+00:00",
+      "question": "Will the highest temperature in Busan be 26\u00b0C on June 25?",
+      "slug": "highest-temperature-in-busan-on-june-25-2026-26c",
+      "cycle": 485,
+      "strategy_id": "macro-fed-v1"
+    },
+    "38218163926686064084457897042132824507258707619759405981314823965370756823377": {
+      "status": "open",
+      "entry_price": 0.032,
+      "size_usd": 0.83,
+      "side": "YES",
+      "entry_timestamp": "2026-06-24T17:01:07.053671+00:00",
+      "question": "Will Amazon.com, Inc. (AMZN) hit (LOW) $216 in June?",
+      "slug": "will-amzn-dip-to-216-in-june-2026",
+      "cycle": 489,
+      "strategy_id": "macro-fed-v1"
+    }
+  }
+}
